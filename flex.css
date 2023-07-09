@@ -1,0 +1,2 @@
+*{margin: 0;padding: 0px;}
+.banner-container{display: flex;justify-content: center;gap: 30px;height: 100vh;border: 1px solid black;align-items: center;}
